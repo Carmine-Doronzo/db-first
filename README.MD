@@ -1,0 +1,1 @@
+In questa repo è presente una tabella per un database fittizio nel quale dichiaro le righe, il tipo di valore da associare e le proprietà.
